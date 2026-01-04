@@ -1,0 +1,10 @@
+The term Curtate Trochoid (also frequently called a Curtate Cycloid)
+refers to a specific type of curve in geometry, known as a roulette.
+It is the path traced by a fixed point that is inside a circle as that circle rolls along a straight line without slipping.
+
+  Think of a bicycle wheel rolling down the street.
+If you trace a point on the rim of the tire, you get a regular Cycloid.
+If you trace a point inside the rim (like a reflective sticker on the spoke), you get a Curtate Trochoid.
+2The formula for the Curtate Trochoid is given by a set of parametric equations which describe the x and y coordinates of the tracing point, p, as a function of the angle the circle has rotated, \theta (theta).
+7The Formula ExplainedThe parametric equations for a Curtate Trochoid are:x(\theta) = a\theta - b \sin(\theta) \\
+y(\theta) = a - b \cos(\theta)
