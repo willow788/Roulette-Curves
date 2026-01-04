@@ -1,0 +1,25 @@
+An epitrochoid is drawn when a small circle rolls on the outside of a large circle. If A
+ is the midpoint of the small circle, a pen is put in a hole B
+ at a distance d from A
+
+ If A
+ moves in a counterclockwise order, B
+ moves in a clockwise order.
+
+Let R
+ be the radius of the larger circle, and r
+ be the radius of the smaller circle, then the coordinates of A
+ are
+
+A=((R+r)cosα,(R+r)sinα)
+
+The coordinates of B
+ are
+
+B=(x(A)−dcos(mα),y(A)−dsin(mα))
+
+m is the number of revolutions made by B around A, as A makes one revolution around O. m can be found by taking the ratio of the circumference of the circle made by A
+ around O to the circumference of the circle made by B around A. Since the circumference is proportional to the radius, m
+ is also the ratio of the radii, yielding
+
+m=R+r/r
