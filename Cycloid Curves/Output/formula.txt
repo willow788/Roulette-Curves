@@ -1,0 +1,6 @@
+Let the wheel radius be r and the parameter be t.
+
+x = r(t − sin t)
+y = r(1 − cos t)
+
+As t increases, the wheel rolls and the point traces little arches like a sleepy roller coaster.
