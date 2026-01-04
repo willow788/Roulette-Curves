@@ -1,0 +1,10 @@
+main formula:
+x(t) = r*t - d*sin(t)
+y(t) = r   - d*cos(t)
+
+where r - radious
+t - angle 
+d -here d stands for the distance from the center of the rolling circle to the tracing point
+
+for prolate : d> r
+for curtate: d< r
